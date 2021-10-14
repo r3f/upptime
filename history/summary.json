@@ -1,7 +1,7 @@
 [
   {
     "name": "iKuai",
-    "url": "${{ secrets.SEC_URL }}",
+    "url": "$SEC_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "i-kuai",
     "status": "up",
@@ -10,16 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 359,
+    "timeDay": 359,
+    "timeWeek": 359,
+    "timeMonth": 359,
+    "timeYear": 359,
     "dailyMinutesDown": {}
   },
   {
     "name": "Home Assistant",
-    "url": "${{ secrets.SEC_URL }}",
+    "url": "$SEC_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "home-assistant",
     "status": "up",
@@ -37,7 +37,7 @@
   },
   {
     "name": "ESXi",
-    "url": "${{ secrets.SEC_URL }}",
+    "url": "$SEC_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "es-xi",
     "status": "up",
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 234,
+    "timeDay": 234,
+    "timeWeek": 234,
+    "timeMonth": 234,
+    "timeYear": 234,
     "dailyMinutesDown": {}
   }
 ]
