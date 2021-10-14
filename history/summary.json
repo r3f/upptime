@@ -1,7 +1,7 @@
 [
   {
     "name": "iKuai",
-    "url": "$SEC_URL",
+    "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "i-kuai",
     "status": "up",
@@ -19,7 +19,7 @@
   },
   {
     "name": "Home Assistant",
-    "url": "$SEC_URL",
+    "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "home-assistant",
     "status": "up",
@@ -37,7 +37,7 @@
   },
   {
     "name": "ESXi",
-    "url": "$SEC_URL",
+    "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "es-xi",
     "status": "up",
