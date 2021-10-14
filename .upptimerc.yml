@@ -7,12 +7,15 @@ sites:
     check: "tcp-ping"
     url: $SECRET_SITE
     port: 8001
+    maxResponseTime: 5000
   - name: Home Assistant
     url: $SECRET_SITE_HA
+    maxResponseTime: 5000
   - name: ESXi
     check: "tcp-ping"
     url: $SECRET_SITE
     port: 8007
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
