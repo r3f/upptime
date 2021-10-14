@@ -5,15 +5,15 @@ repo: upptime # The name of this repository
 sites:
   - name: iKuai
     check: "tcp-ping"
-    url: $SEC_URL
+    url: $SECRET_SITE
     port: 8001
   - name: Home Assistant
     check: "tcp-ping"
-    url: $SEC_URL
+    url: $SECRET_SITE
     port: 8123
   - name: ESXi
     check: "tcp-ping"
-    url: $SEC_URL
+    url: $SECRET_SITE
     port: 8007
 
 status-website:
