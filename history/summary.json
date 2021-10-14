@@ -19,7 +19,7 @@
   },
   {
     "name": "Home Assistant",
-    "url": "$SECRET_SITE",
+    "url": "$SECRET_SITE_HA",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "home-assistant",
     "status": "up",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 556,
+    "timeDay": 556,
+    "timeWeek": 556,
+    "timeMonth": 556,
+    "timeYear": 556,
     "dailyMinutesDown": {}
   },
   {
