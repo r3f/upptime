@@ -1,9 +1,9 @@
 [
   {
-    "name": "爱快",
+    "name": "iKuai",
     "url": "${{ secrets.SEC_URL }}",
     "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "",
+    "slug": "i-kuai",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
