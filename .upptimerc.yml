@@ -3,7 +3,7 @@ owner: r3f # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: 爱快
+  - name: iKuai
     check: "tcp-ping"
     url: ${{ secrets.SEC_URL }}
     port: 8001
