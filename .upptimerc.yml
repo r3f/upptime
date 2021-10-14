@@ -8,9 +8,7 @@ sites:
     url: $SECRET_SITE
     port: 8001
   - name: Home Assistant
-    check: "tcp-ping"
-    url: $SECRET_SITE
-    port: 8123
+    url: $SECRET_SITE_HA
   - name: ESXi
     check: "tcp-ping"
     url: $SECRET_SITE
