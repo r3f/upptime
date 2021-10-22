@@ -22,12 +22,12 @@
     "url": "$SECRET_SITE_HA",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "home-assistant",
-    "status": "up",
-    "uptime": "63.94%",
-    "uptimeDay": "52.29%",
-    "uptimeWeek": "58.09%",
-    "uptimeMonth": "63.94%",
-    "uptimeYear": "63.94%",
+    "status": "down",
+    "uptime": "64.35%",
+    "uptimeDay": "53.95%",
+    "uptimeWeek": "58.48%",
+    "uptimeMonth": "64.35%",
+    "uptimeYear": "64.35%",
     "time": 636,
     "timeDay": 594,
     "timeWeek": 633,
@@ -40,7 +40,7 @@
       "2021-10-19": 516,
       "2021-10-18": 657,
       "2021-10-17": 743,
-      "2021-10-16": 513
+      "2021-10-16": 474
     }
   },
   {
