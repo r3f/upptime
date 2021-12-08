@@ -1,7 +1,7 @@
 url: $SECRET_SITE_HA
 status: up
 code: 200
-responseTime: 512
-lastUpdated: 2021-12-08T22:56:41.582Z
+responseTime: 485
+lastUpdated: 2021-12-08T23:03:01.881Z
 startTime: Thu Oct 14 2021 13:24:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
