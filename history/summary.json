@@ -23,24 +23,24 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "94.98%",
-    "uptimeDay": "48.85%",
-    "uptimeWeek": "58.78%",
-    "uptimeMonth": "90.52%",
-    "uptimeYear": "94.98%",
+    "uptime": "94.92%",
+    "uptimeDay": "50.13%",
+    "uptimeWeek": "58.27%",
+    "uptimeMonth": "90.40%",
+    "uptimeYear": "94.92%",
     "time": 653,
     "timeDay": 618,
     "timeWeek": 583,
     "timeMonth": 638,
     "timeYear": 653,
     "dailyMinutesDown": {
-      "2021-12-10": 736,
+      "2021-12-10": 726,
       "2021-12-09": 776,
       "2021-12-08": 523,
       "2021-12-07": 752,
       "2021-12-06": 500,
       "2021-12-05": 541,
-      "2021-12-04": 328
+      "2021-12-04": 390
     }
   },
   {
