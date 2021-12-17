@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 333,
-    "timeDay": 0,
-    "timeWeek": 328,
-    "timeMonth": 324,
-    "timeYear": 333,
+    "time": 332,
+    "timeDay": 303,
+    "timeWeek": 322,
+    "timeMonth": 322,
+    "timeYear": 332,
     "dailyMinutesDown": {}
   },
   {
@@ -22,14 +22,14 @@
     "url": "$SECRET_SITE_HA",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "home-assistant",
-    "status": "up",
-    "uptime": "94.58%",
-    "uptimeDay": "31.91%",
+    "status": "down",
+    "uptime": "94.61%",
+    "uptimeDay": "31.90%",
     "uptimeWeek": "50.42%",
-    "uptimeMonth": "88.52%",
-    "uptimeYear": "94.58%",
+    "uptimeMonth": "88.59%",
+    "uptimeYear": "94.61%",
     "time": 648,
-    "timeDay": 467,
+    "timeDay": 466,
     "timeWeek": 604,
     "timeMonth": 604,
     "timeYear": 648,
@@ -40,8 +40,7 @@
       "2021-12-14": 688,
       "2021-12-13": 465,
       "2021-12-12": 684,
-      "2021-12-11": 850,
-      "2021-12-10": 32
+      "2021-12-11": 850
     }
   },
   {
@@ -58,7 +57,7 @@
     "time": 245,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 231,
+    "timeMonth": 230,
     "timeYear": 245,
     "dailyMinutesDown": {}
   }
