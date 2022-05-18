@@ -24,9 +24,9 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "es-xi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,6 +35,8 @@
     "timeWeek": 279,
     "timeMonth": 279,
     "timeYear": 249,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 0
+    }
   }
 ]
