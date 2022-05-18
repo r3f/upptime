@@ -4,11 +4,11 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "i-kuai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 334,
     "timeDay": 339,
@@ -16,7 +16,7 @@
     "timeMonth": 345,
     "timeYear": 334,
     "dailyMinutesDown": {
-      "2022-05-18": 11
+      "2022-05-18": 0
     }
   },
   {
@@ -26,17 +26,15 @@
     "slug": "es-xi",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 249,
     "timeDay": 314,
     "timeWeek": 279,
     "timeMonth": 279,
     "timeYear": 249,
-    "dailyMinutesDown": {
-      "2022-05-18": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
