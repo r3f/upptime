@@ -11,9 +11,9 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.96%",
     "time": 333,
-    "timeDay": 336,
+    "timeDay": 317,
     "timeWeek": 323,
-    "timeMonth": 339,
+    "timeMonth": 342,
     "timeYear": 333,
     "dailyMinutesDown": {
       "2022-05-19": 98,
@@ -26,18 +26,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "es-xi",
     "status": "down",
-    "uptime": "99.45%",
+    "uptime": "99.32%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.98%",
-    "uptimeMonth": "96.08%",
-    "uptimeYear": "99.45%",
+    "uptimeWeek": "78.78%",
+    "uptimeMonth": "95.12%",
+    "uptimeYear": "99.32%",
     "time": 249,
     "timeDay": 0,
-    "timeWeek": 279,
+    "timeWeek": 287,
     "timeMonth": 279,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2022-05-19": 1073,
+      "2022-05-20": 56,
+      "2022-05-19": 1440,
       "2022-05-18": 642
     }
   }
